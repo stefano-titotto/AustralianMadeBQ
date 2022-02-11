@@ -2,9 +2,9 @@
 
 # Imprenditori che sono diventati milionari grazie a progetti verdi
 
-<img src="patagonia.png"  height="100">
+<img src="patagonia.png"  height="200">
 
-- [Yvon Chouinard](patagonia.html), fondatore di Patagonia, ha fatto crescere la sua azienda sostituendo materiali utilizzati negli sport di montagna con alternative ecologiche.
+- [Yvon Chouinard](patagonia.md), fondatore di Patagonia, ha fatto crescere la sua azienda sostituendo materiali utilizzati negli sport di montagna con alternative ecologiche.
 - i cunei di alluminio invece dei chiodi
 - pile prodotti con gli scarti delle bottiglie di plastica invece del poliestere tradizionale
 - cotone organico al posto del cotone prodotto da agricoltura tradizionale con usop di pesticidi e diserbanti.
