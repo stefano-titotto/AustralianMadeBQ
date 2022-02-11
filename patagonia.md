@@ -1,4 +1,4 @@
-[Home](milionari.html)
+[Home](README.md)
 # Appunti su Patagonia Storytelling
 
 Yvon Chouinard, il fondatore di Patagonia, produceva, in California, chiodi per
