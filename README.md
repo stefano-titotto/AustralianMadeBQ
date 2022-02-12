@@ -14,5 +14,6 @@ caratteristiche delle aziende vincenti al giorno d'oggi.
 - [La strategia commerciale](Commerciale.md)
 - [L'impianto](Impianto.md)
 - [Il business plan](BusinessPlan.md) 
+- [La eco-imprenditoria è il futuro](heroes.md)
 
 [Next](BigIdea.md)
