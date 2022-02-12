@@ -17,10 +17,10 @@ estetiche.
 
 Australian Made Bioquartz propone di:
 
-produrre in Australia, con materie prime locali, lastre in Bioquarzo: un nuovo
+- produrre in Australia, con materie prime locali, lastre in Bioquarzo: un nuovo
 materiale con le stesse caratteristiche del quarzo ma totalmente innocuo per la
 salute dei lavoratori, 
 
-e di vendere queste lastre nel paese con un modello di business vincente e
+- e di vendere queste lastre nel paese con un modello di business vincente e
 sostenibile (riciclo degli scarti).
 
