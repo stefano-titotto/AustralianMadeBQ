@@ -11,8 +11,12 @@ caratteristiche delle aziende vincenti al giorno d'oggi.
 - [Il problema della silicosi](Silicosi.md)
 - [Cos'è il bioquarzo?](Bioquarzo.md)
 - [Il mercato australiano delle lastre in quarzo](Mercato.md)
-- [La strategia commerciale](Commerciale.md)
 - [L'impianto](Impianto.md)
+  - Prodotti
+  - Il processo
+  - Il layout
+  - Materie prime
+- [La strategia commerciale proposta](Commerciale.md)
 - [Il business plan](BusinessPlan.md) 
 - [La eco-imprenditoria è il futuro](heroes.md)
 
