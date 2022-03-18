@@ -16,7 +16,7 @@ caratteristiche delle aziende vincenti al giorno d'oggi.
   - Il processo
   - Il layout
   - Materie prime
-- [La strategia commerciale proposta](Commerciale.md)
+- [La strategia commerciale e marketing](Commerciale.md)
 - [Il business plan](BusinessPlan.md) 
 - [La eco-imprenditoria è il futuro](heroes.md)
 
