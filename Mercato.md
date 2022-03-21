@@ -5,19 +5,26 @@
 # Il Mercato Australiano
 
 In Australia, nel corso degli anni, si sono verificate le condizioni ideali per
-la vendita dei piani cucina in quarzo: - Case unifamiliari fra le più grandi
-nel mondo - Propensione dei consumatori a ristrutturare le case - Reddito medio
-elevato - Ampia disponibilità di terreni per edifici ampi con ampie cucine e
+la vendita dei piani cucina in quarzo: 
+
+- Case unifamiliari fra le più grandi
+nel mondo 
+
+- Propensione dei consumatori a ristrutturare le case 
+- Reddito medio
+elevato 
+
+- Ampia disponibilità di terreni per edifici ampi con ampie cucine e
 bagni - Urbanizzazione elevata
 
 Dal 2017 al 2021 le vendite di quarzo sono cresciute del 28%. Le previsioni per
 i prossimi anni danno un tasso di crescita medio annuo CAGR 11%.
 
-  INSERIRE GRAFICO FREEDONIA
+
 
 ![Grafico Freedonia](img/Australia-GIR2022.jpg)
 
-<img src="img/Australia-GIR2022.jpg" width="200">
+
 
 I principali players sono: - Caesarstone - Quantum Quartz - Silestone -
 Smartstone - Essastone
