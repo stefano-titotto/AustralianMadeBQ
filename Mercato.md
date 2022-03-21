@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](README.md) - [>> L'impianto](Impianto.md) 
 
 
 
@@ -14,6 +14,10 @@ Dal 2017 al 2021 le vendite di quarzo sono cresciute del 28%. Le previsioni per
 i prossimi anni danno un tasso di crescita medio annuo CAGR 11%.
 
   INSERIRE GRAFICO FREEDONIA
+
+![Grafico Freedonia](img/Australia-GIR2022.jpg)
+
+<img src="img/Australia-GIR2022.jpg" width="200">
 
 I principali players sono: - Caesarstone - Quantum Quartz - Silestone -
 Smartstone - Essastone
