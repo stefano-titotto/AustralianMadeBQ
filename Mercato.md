@@ -11,11 +11,12 @@ la vendita dei piani cucina in quarzo:
 nel mondo 
 
 - Propensione dei consumatori a ristrutturare le case 
-- Reddito medio
-elevato 
+- Reddito medio elevato 
 
 - Ampia disponibilità di terreni per edifici ampi con ampie cucine e
-bagni - Urbanizzazione elevata
+bagni 
+
+- Urbanizzazione elevata
 
 Dal 2017 al 2021 le vendite di quarzo sono cresciute del 28%. Le previsioni per
 i prossimi anni danno un tasso di crescita medio annuo CAGR 11%.
